@@ -17,8 +17,8 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/virtual-r.git
-   cd virtual-r
+   git clone https://github.com/NikhilBhagoria/virtualr.git
+   cd virtualr
    ```
 
 2. **Install the dependencies:**
